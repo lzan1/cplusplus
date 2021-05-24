@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+#visual studio hidden files/folders
+.vs
